@@ -1,0 +1,15 @@
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\bin\Debug\net6.0\LPSem-1.exe
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\bin\Debug\net6.0\LPSem-1.deps.json
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\bin\Debug\net6.0\LPSem-1.runtimeconfig.json
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\bin\Debug\net6.0\LPSem-1.dll
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\bin\Debug\net6.0\LPSem-1.pdb
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\LPSem-1.csproj.AssemblyReference.cache
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\LPSem-1.GeneratedMSBuildEditorConfig.editorconfig
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\LPSem-1.AssemblyInfoInputs.cache
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\LPSem-1.AssemblyInfo.cs
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\LPSem-1.csproj.CoreCompileInputs.cache
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\LPSem-1.dll
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\refint\LPSem-1.dll
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\LPSem-1.pdb
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\LPSem-1.genruntimeconfig.cache
+E:\GREEK_BRAINS\GB_progrWorking\LPSeminars\LPSem-1\obj\Debug\net6.0\ref\LPSem-1.dll
